@@ -20,6 +20,12 @@ img {
     max-width: 100%;
 }
 
+.wrapper {
+    max-width: 1100px;
+    margin: 0 auto;
+    padding: 0 4%;
+}
+
 /* HEADER
 ------------------------------------ */
 .page-header {
