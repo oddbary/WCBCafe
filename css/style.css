@@ -119,6 +119,24 @@ img {
     text-align: center;
 }
 
+.news-contents {
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 50px;
+}
+
+/* 記事部分 */
+
+article {
+    width: 74%;
+}
+
+/* サイドバー */
+
+aside {
+    width: 22%;
+}
+
 /* FOOTER
 ------------------------------------ */
 
